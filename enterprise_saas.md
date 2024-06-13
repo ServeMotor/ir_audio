@@ -12,7 +12,7 @@
           <h2 id="h_01J08W5E1J835BJ5FVGYT9NEKD">Company Name</h2>
         </th>
         <th>
-          <h2 id="h_01J08W5E1JVVS4XZASTHDK9H32">Link to Investor Call</h2>
+          <h2 id="h_01J08W5E1JVVS4XZASTHDK9H32">Link to Q3 2020 Investor Call</h2>
         </th>
       </tr>
       <tr>
