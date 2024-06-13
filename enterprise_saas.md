@@ -3,7 +3,7 @@
     <a class="list-group-item list-group-item-action">Enterprise Software</a>
   </h1>
   <p>
-    US Listed Companies - Click and listen to recent earnings calls for Investors
+    US Listed Companies - Click and listen to recent earnings calls for Investors from Q3 2020
   </p>
   <table>
     <tbody>
